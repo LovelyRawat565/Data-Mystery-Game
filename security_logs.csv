@@ -1,0 +1,15 @@
+Timestamp,Employee_Name,Role,Location,Action,Card_Status
+09:15,Rohan Sharma,Manager,Main Entrance,Check-In,Authorized
+09:20,Amit Verma,Guard,Main Entrance,Check-In,Authorized
+09:45,Priya Patel,Cashier,Main Entrance,Check-In,Authorized
+10:00,Rohan Sharma,Manager,Locker Room,Open Safe,Authorized
+11:30,Vikram Singh,Cleaner,Main Entrance,Check-In,Authorized
+12:15,Priya Patel,Cashier,Billing Counter,Log-In,Authorized
+13:00,Vikram Singh,Cleaner,Locker Room,Maintenance,Authorized
+14:15,Unknown,Unknown,Locker Room,Force Entry,Denied
+14:20,Amit Verma,Guard,Locker Room,Patrol,Authorized
+15:00,Rohan Sharma,Manager,Locker Room,Open Safe,Authorized
+16:45,Vikram Singh,Cleaner,Locker Room,Cleaning,Authorized
+17:10,Priya Patel,Cashier,Billing Counter,Log-Out,Authorized
+17:30,Vikram Singh,Cleaner,Server Room,Access Attempt,Denied
+18:00,Rohan Sharma,Manager,Main Entrance,Check-Out,Authorized
